@@ -78,9 +78,12 @@
 </div>
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 
-<a href="#" target="_blank">
-  <img src="svg/VietNguyenVan-quotes.svg" width="100%" height="150" alt="NguyenVanViet2004" />
-</a>
+<div href="#" target="_blank" align="center">
+
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+  <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
+
+</div>
