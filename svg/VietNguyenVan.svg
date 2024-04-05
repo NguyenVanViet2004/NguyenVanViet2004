@@ -75,7 +75,7 @@
           width: 74px;
         }
 			</style>
-
+      <!-- convert base64: https://codebeautify.org/jpg-to-base64-converter -->
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
