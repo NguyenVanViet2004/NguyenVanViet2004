@@ -87,3 +87,10 @@
  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=synthwave)
 
 </div>
+
+<br>
+<div href="#" target="_blank" align="center">
+
+  [![](https://visitcount.itsvg.in/api?id=NguyenVanViet2004&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
