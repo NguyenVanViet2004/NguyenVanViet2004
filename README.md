@@ -89,8 +89,9 @@
 </div>
 
 <br>
-<div href="#" target="_blank" align="center">
+
+<div href="#" target="_blank" align="center" width="100%>
   
-  [![](https://visitcount.itsvg.in/api?id=NguyenVanViet2004&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+  [![](https://visitcountpro.netlify.app/api?id=NguyenVanViet2004&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
