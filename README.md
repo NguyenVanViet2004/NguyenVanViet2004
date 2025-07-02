@@ -92,6 +92,6 @@
 
 <div href="#" target="_blank" align="center" width="100%>
   
-  [![](https://visitcountpro.netlify.app/api?id=NguyenVanViet2004&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcountpro.netlify.app/api?id=NguyenVanViet2004&label=%20%20%20%20%20%20Profile%20Views%20%20%20%20%20%20&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
